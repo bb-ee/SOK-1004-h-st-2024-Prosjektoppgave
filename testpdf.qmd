@@ -1,0 +1,1277 @@
+---
+title: "“SOK-1004, høst 2024, Prosjektoppgave”"
+author: "39"
+format: pdf
+echo: false
+output: true
+editor: visual
+---
+
+## Appendiks
+
+I denne oppgaven har jeg brukt kunstig intelligens (KI) som et verktøy for å hjelpe og veilede meg gjennom besvarelsen. Kodene som er brukt, er i stor grad skrevet basert på det jeg har lært gjennom kurset, men jeg har anvendt ChatGPT for å oppfriske minnet om tidligere brukte koder og for å spare tid.
+
+KI har også blitt brukt til å forbedre spesifikke deler av koden, som for eksempel å finne argumenter for å produsere en mer oversiktlig og estetisk output, fjerne unødvendige tall, legge til tabeller, og organisere funnene på en tydeligere måte. Ved feilsøking har jeg brukt KI til å identifisere hvor problemer har oppstått og til å foreslå løsninger.
+
+Når det gjelder tekstene i oppgaven, er disse skrevet av meg selv basert på anbefalte artikler fra oppgaven og andre kilder jeg selv har funnet nyttige. For å unngå gjentakelser og sikre en god struktur i teksten, har jeg brukt KI til å foreslå forbedringer og rette skrivefeil. Til slutt har jeg også fått hjelp av KI til å formatere og kvalitetssikre kildelisten, noe som har bidratt til å spare på en begrenset tid.
+
+I tillegg har jeg brukt KI til å oppsummere lange artikler, slik at jeg enkelt kan trekke ut de viktigste poengene.
+
+Det er viktig å understreke at innholdet i oppgaven reflekterer mitt eget arbeid og mine egne tolkninger, mens KI har vært et støttende verktøy for effektivitet og kvalitetsjekk.
+
+## Kapittel 1 - Innledning
+
+Denne rapporten tar for seg produktivitet i ulike land, både internasjonalt og med et spesifikt fokus på Norge. Rapporten er delt inn i fem kapitler:
+
+1.  Innledning
+
+2.  Produktivitet – en internasjonal sammenligning
+
+3.  Produktivitet i Norge
+
+    -   3.1 Næringsvis utvikling
+
+    -   3.2 Viktige drivere for produktiviteten
+
+4.  Velferdsstaten og produktivitet
+
+5.  Konklusjon
+
+I kapittel 2 analyseres produktivitetsutviklingen i Norge, Sverige, Danmark og USA. De skandinaviske landene er valgt på grunn av deres likheter, mens USA trekkes frem som et av de ledende landene innen produktivitet. Analysene viser at USA har hatt en sterk produktivitetsutvikling, spesielt i de siste årene, mens Danmark ligger ikke langt bak.
+
+Kapittel 3 er delt i to underkapitler. I kapittel 3.1 undersøkes næringene med størst og minst bidrag til produktivitetsutviklingen i Norge, ekskludert oljeindustrien. Bidragene vektes etter deres andel av det totale bruttoproduktet. Her identifiseres "Varehandel og reparasjon av motorvogner" som den mest betydningsfulle næringen, mens "Kultur, underholdning og annen tjenesteyting" bidrar minst. Kapittel 3.2 belyser viktige drivere for produktivitetsutviklingen i Norge, med særlig fokus på urbanisering og utdanning. Dataanalyser viser en positiv utvikling for begge disse driverne.
+
+I kapittel 4 diskuteres hvordan velferdsstatens systemer kan påvirke enkeltpersoners motivasjon til å arbeide og hvilken effekt dette har på produktiviteten. Ved hjelp av en modell for optimal fordeling av konsum og fritid, illustreres hvordan høy arbeidsledighetstrygd og høye skatter kan påvirke produktiviteten negativt.
+
+Til slutt, i kapittel 5, oppsummeres funnene fra rapporten.
+
+## Kapittel 2 - Produktivitet - en internasjonal sammenligning
+
+#### **Produktivitet og produktivitetsvekst**
+
+Produktivitet handler om hvor mye som produseres i forhold til innsatsen. En vanlig måte å måle dette på er arbeidsproduktivitet, som viser hvor mye som blir produsert per timeverk. For eksempel: En tømrer som bygger 6 hus på 3 timer, produserer 2 hus i løpet av én time. Produktiviteten til tømreren er da 2 hus per time.
+
+En annen form for produktivitet er total faktorproduktivitet (TFP), som ser på produksjonsverdien i forhold til innsatsen av både arbeidskraft og kapital. TFP beregnes ved å ta produksjonsveksten og trekke fra et vektet gjennomsnitt av veksten i arbeidskraft og kapital, der vektene reflekterer deres andel av produksjonskostnadene. TFP måler effektiviteten i teknologien og organisasjonen bak produksjonen, men inkluderer også faktorer som stordriftsfordeler, kapasitetsutnyttelse og mulige målefeil (Statistisk sentralbyrå, 2023).
+
+Produktivitetsvekst betyr i teorien at produktiviteten øker over tid uten at ressursbruken øker. Dette kan skje gjennom bedre teknologi, økt kompetanse blant arbeidere eller andre effektiviseringstiltak. For eksempel: En tømrer som tidligere bygde 2 hus per time, kan med en nyoppfinnet motorsag bygge 4 hus per time. Dette illustrerer en produktivitetsvekst, som også gir lavere kostnader og høyere profitt.
+
+#### **Historisk kontekst**
+
+Gjennom århundrene har mennesker gradvis økt produktiviteten, noe som har gjort livet enklere og mer effektivt. Allerede i de første sivilisasjonene effektiviserte jordbruket matproduksjonen. Senere har revolusjonerende oppfinnelser i ulike perioder bidratt til å øke produksjonen. Den største veksten har likevel skjedd de siste 200 årene, spesielt med den industrielle revolusjonen på slutten av 1700-tallet i England.
+
+Fra slutten av 1980-årene og frem til 2007 var det stabil og sterk produktivitetsvekst i mange land, drevet av teknologisk utvikling, god økonomisk infrastruktur og økt kompetanse. Denne hyppige veksten redusertes med finanskrisen i 2008, som førte til en internasjonal nedgang i produktivitetsutviklingen. Etter dette har veksten vært lavere enn før.
+
+#### **Hvorfor er produktivitet og produktivitetsvekst viktig?**
+
+Produktivitet og produktivitetsvekst er avgjørende for økonomisk vekst og økt levestandard. Når vi kan produsere mer uten å bruke flere ressurser, reduseres kostnadene, varene blir billigere, og lønningene kan økes. Økt produktivitet gir også staten større skatteinntekter, som kan brukes på fellesgoder som helse og utdanning.
+
+For norske bedrifter er produktivitetsvekst viktig for å være konkurransedyktige internasjonalt. Etter finanskrisen i 2008 har det vært en nedgang i produktivitetsveksten både i Norge og globalt. Dette gjør det enda viktigere å styrke produksjonen og øke produktiviteten for å sikre en stabil økonomi og fremtidig vekst.
+
+#### Produktivitetsutviklingen i Norge sammenlignet med andre land
+
+For å få et bilde av hvordan Norge ligger an internasjonalt, sammenlignes produktiviteten og produktivitetsveksten med de andre skandinaviske landene og USA. De skandinaviske landene er interessante å sammenligne med på grunn av deres likheter, både når det gjelder statssystemer, kultur og tette samarbeid, blant annet gjennom Nordisk råd, som jobber for en positiv utvikling for innbyggerne i regionen (Store norske leksikon, n.d.).
+
+USA trekkes inn i analysen fordi landet er ledende innen utvikling av store internasjonale selskaper som Apple, Tesla og Microsoft. Det har også vært påpekt at USA nå øker produktiviteten raskere enn Europa. De følgende figurene undersøker derfor hvordan produktivitetsutviklingen i Norge står i forhold til disse landene.
+
+```{r warning=FALSE, message=FALSE}
+#| echo: false
+
+library(OECD)
+library(tidyverse)
+library(rjstat)
+library(httr)
+library(rsdmx)
+library(dplyr)
+library(patchwork)
+```
+
+```{r warning=FALSE, message=FALSE}
+#| echo: false
+rm(list=ls())
+
+url <- "https://sdmx.oecd.org/public/rest/data/OECD.SDD.TPS,DSD_PDB@DF_PDB_LV,/DEU+DNK+SWE+NOR+USA.A.GDPHRS..USD_PPP_H.Q...?startPeriod=1988&endPeriod=2023&dimensionAtObservation=AllDimensions"
+
+# Les data fra URL
+data <- readSDMX(url)
+
+# Konverter til en dataramme
+df <- as_tibble(data)
+df$TIME_PERIOD <- as.integer(df$TIME_PERIOD)
+
+# Brukte disse kodene for å sjekke om kolonnene var riktig type i forhold til mitt behov:
+# str(df$TIME_PERIOD)
+# str(df)
+```
+
+```{r warning=FALSE, message=FALSE}
+#| echo: false
+
+df <- df %>%
+  select(-FREQ, -ACTIVITY, -PRICE_BASE, -TRANSFORMATION, -ADJUSTMENT, -CONVERSION_TYPE, -UNIT_MULT, -DECIMALS, -OBS_STATUS) %>%
+  mutate(REF_AREA = recode(REF_AREA, "SWE" = "Sverige"), REF_AREA = recode(REF_AREA, "DEU" = "Tyskland"), REF_AREA = recode(REF_AREA, "NOR" = "Norge"), REF_AREA = recode(REF_AREA, "DNK" = "Danmark"))
+  
+names(df) <- c("År", "Land", "Mål", "Målenhet", "Produktivitet", "baseår") # Endrer kolonnenavnene veldig enkelt med denne koden
+```
+
+```{r warning=FALSE, message=FALSE}
+#| echo: false
+
+gjenn_prod_data <- tribble(
+  ~periode, ~start_år, ~slutt_år,
+  "2000-2008", 2000, 2008,
+  "2009-2023", 2009, 2023
+) %>%
+  rowwise() %>%
+  mutate(gj_produktivitet = mean(df$Produktivitet[df$År >= start_år & df$År <= slutt_år],na.rm = TRUE))
+```
+
+```{r warning=FALSE, message=FALSE}
+#| echo: false
+#| label: fig-produktivitet
+#| fig-cap: "Produktiviteten i USA, Norge, Sverige og Danmark er målt som brutto nasjonalprodukt (BNP) per arbeidstime, uttrykt i amerikanske dollar per time. Verdiene er justert for kjøpekraftsparitet (PPP) og er oppgitt i faste priser fra 2015. Dataen dekker perioden 1988 til 2023. Årene som er inkludert, er valgt med utgangspunkt i historisk kontekst, særlig for å belyse perioder med betydelig produktivitetsvekst samt utviklingen etter finanskrisen i 2008."
+
+df %>%
+  filter(Land != "Tyskland") %>%
+  #filter(År >= 2004) %>%
+  ggplot(aes(x = År, y = Produktivitet, color = Land, group = Land)) +
+  geom_segment(
+    data = gjenn_prod_data,
+    aes(x = start_år, xend = slutt_år,
+        y = gj_produktivitet, yend = gj_produktivitet), size = 0.5, inherit.aes = FALSE) +
+  geom_text(data = gjenn_prod_data,aes(x = (start_år + slutt_år) / 2, y = gj_produktivitet,label = round(gj_produktivitet, 1)), inherit.aes = FALSE, vjust = -0.5, size = 3
+  ) + # Fik feilmelding og spurte chatgpt til å hjelpe med å fikse opp, noen av funksjonene er dermed hentet fra chatgpt
+  geom_line(size = 0.7) +
+  geom_point(size = 1) +
+  scale_x_continuous(breaks = seq(min(df$År), max(df$År), by = 2)) +
+  labs(
+    title = "Produktivitet målt i BNP per timeverk",
+    subtitle = "Målt for landene: USA, Norge, Sverige og Danmark",
+    x = "År",
+    y = "Produktivitet (USD/time)",
+    caption = "Kilde: OECD (2024)"
+  ) +
+  theme_minimal() +
+  theme(
+    axis.text.x = element_text(angle = 50, hjust = 1),
+    plot.title = element_text(hjust = 0.5,size = 16, face = "bold"),
+    plot.subtitle = element_text(hjust = 0.5),
+    axis.title = element_text(size = 14),
+    legend.position = "bottom",
+    plot.caption = element_text(size = 10)) +
+  guides(color = guide_legend(title = NULL)) #fikk gjelp av chatgpt for å fjerne legendetittel
+
+# Husk å legge til figurnummer i toppen av kodechuncken
+# sjekk om alle årene er som int
+```
+
+I @fig-produktivitet ser vi en jevn vekst i produktiviteten for alle landene frem til rundt 2005. Fra 2005 til 2009 viser figuren imidlertid en nedgang i produktiviteten for Norge, Sverige og Danmark. Det som er spesielt interessant å legge merke til, er den konstante og jevne veksten i produktiviteten i USA, som strekker seg fra 1988 til 2023. USA opplevde kun én kortvarig nedgang, i 2022, men hentet seg raskt inn igjen i 2023.
+
+En annen observasjon fra figuren er at Danmark hadde høyere produktivitet enn USA frem til 2008. Etter dette har de to landene ligget tett på hverandre i utviklingen. En tydelig forskjell mellom landene er Norges betydelig høyere produktivitetsnivå, som ligger godt over de andre tre landene, som ellers har en relativt lik utvikling.
+
+Norges høye produktivitet kan i stor grad skyldes landets høye bruttonasjonal produkt per capita, mye takket være inntektene fra oljenæringen. Olje gir Norge høye grunnrenter, fordi det er en sjelden naturressurs som gir stor avkastning med relativt lav arbeidskraftinnsats. Samtidig kan dette gi et skjevt bilde av landets produktivitetsutvikling, da oljeinntektene er en uforutsigbar faktor. Ressursene er begrensede, og det globale markedet beveger seg stadig mot fornybare energikilder.
+
+Figuren inkluderer også gjennomsnittlig produktivitet for alle fire land i to perioder: 2000–2008 og 2009–2023. Dette gjennomsnittet er lagt til for å vise hvordan landene ligger i forhold til hverandre. Gjennomsnittet fra 2009 til 2023 er 71,1, mens Norges produktivitet ligger betydelig over dette nivået, med et snitt på litt over 80 i denne perioden.
+
+Konklusjon: figuren viser at USA har hatt den mest stabile og jevne utviklingen i produktivitet over perioden. Danmark følger tett etter. Dette kan indikerer at USA holder en ledende posisjon innen produktivitetsutvikling.
+
+```{r warning=FALSE, message=FALSE}
+#| echo: false
+
+df_vekst <- df %>%
+  arrange(Land, År) %>%
+  group_by(Land) %>%
+  mutate(Produktivitetsvekst = (Produktivitet - lag(Produktivitet)) / lag(Produktivitet) * 100) %>%
+  filter(!is.na(Produktivitetsvekst)) %>%
+  ungroup()  # Fjerner grupperingen
+```
+
+```{r warning=FALSE, message=FALSE}
+#| echo: false
+#| label: fig-intvekst
+#| fig-cap: "Den prosentvise veksten i produktiviteten for USA, Norge, Sverige og Danmark er målt årlig fra 2003 til 2023. Perioden er valgt basert på endringer i produktivitet som vist i figur 1. Den prosentvise veksten er beregnet ved å finne endringen i produktivitet fra ett år til det neste, dividere denne endringen på produktivitetsverdien året før, og deretter multiplisere med 100 for å uttrykke resultatet i prosent."
+
+df_vekst %>%
+  filter(Land != "Tyskland") %>%
+  filter(År >= 2004) %>%
+  ggplot(aes(x = År, y = Produktivitetsvekst, fill = Land)) +
+  geom_col(position = "dodge") + # Bruker geom_col for kolonner
+  geom_hline(yintercept = 0, linetype = "dashed", color = "black") +
+  scale_x_continuous(breaks = seq(min(df_vekst$År), max(df_vekst$År), by = 2)) +
+  labs(
+    title = "Produktivitetsvekst målt i BNP per timeverk",
+    subtitle = "Målt for landene: USA, Norge, Sverige og Danmark",
+    x = "År",
+    y = "Vekst (%)",
+    caption = "Kilde: OECD (2024)"
+  ) +
+  theme_minimal() +
+  theme(
+    axis.text.x = element_text(angle = 50, hjust = 1),
+    plot.title = element_text(hjust = 0.5, size = 16, face = "bold"),
+    plot.subtitle = element_text(hjust = 0.5),
+    axis.title = element_text(size = 14),
+    plot.caption = element_text(size = 10),
+    legend.position = "none"
+  ) +
+  facet_wrap(~Land, ncol = 2)#, scales = "free_y")
+# Husk kilde til figuren
+# her sier derek at dte kan være lurt å dele opp slik at det blir en figur til hvert land, vi kan sikkert ta bort Tyskland?
+```
+
+@fig-intvekst viser den prosentvise veksten i produktivitet for de fire landene på en lik skala, noe som gjør det enkelt å sammenligne utviklingen. Figuren bekrefter det vi allerede observerte i @fig-produktivitetsvekst, nemlig at USA har hatt en stabil vekst over tid. Den prosentvise veksten måler endringen fra året før, og så lenge veksten er positiv, betyr det at produktiviteten har økt sammenlignet med forrige år.
+
+USA skiller seg ut med en stabil utvikling og kun én nedgang i 2022, hvor den prosentvise veksten falt med rundt 1,8 %. Det er verdt å merke seg at alle landene opplevde en nedgang i produktivitetsvekst dette året. Et spesielt interessant trekk er Danmarks jevne og høye prosentvise vekst i perioden 2011–2021, ofte mellom 1–2 %. Sammenlignet med USA i samme periode kommer Danmark bedre ut når det gjelder gjennomsnittlig prosentvis vekst. Samtidig ser vi at USA hadde et betydelig hopp i produktivitetsveksten i 2020, fra litt over 1 % i 2019 til over 4 % i 2020. Til tross for dette store hoppet har USA klart å opprettholde høy vekst både i 2021 og 2023, og ligger dermed de siste årene på topp når det gjelder produktivitetsutvikling blant de utvalgte landene.
+
+På den andre siden ser vi at Norge, til tross for høy absolutt produktivitet i @fig-produktivitet, har den laveste prosentvise veksten blant de fire landene. Dette gir et mer realistisk bilde av utviklingen i Norge, ettersom de store tallene for BNP ikke skjuler den lavere veksten i produktivitet.
+
+Konklusjon: Basert på analysen av produktivitetsdata og prosentvis produktivitetsvekst, kan vi bekrefte at USA fremstår som et ledende land når det gjelder utviklingen av produktivitet. Stabil vekst og at landet holder et høyt nivå over tid viser at USA, de siste årene, ligger i forkant sammenlignet med de andre landene. Danmark er derimot ikke langt bak.
+
+## Kapittel 3 - Produktivitet i Norge
+
+### Delkapittel 3.1 Næringsvis utvikling
+
+Dette kapittelet tar for seg den næringsvise utviklingen i Norge og presenterer næringene som har bidratt mest og minst til produktivitetsutviklingen. For å analysere dette, har utgangspunktet vært alle næringene i Norge, med unntak av "Utvinning av råolje og naturgass, inkl. tjenester", "Utenriks sjøfart" og "Rørtransport". Disse er ekskludert for å gi et klarere bilde av hvordan utviklingen har vært for de andre næringene.
+
+Metoden for analysen innebærer først å beregne produktiviteten i hver næring, definert som bruttoprodukt delt på antall arbeidstimer. Deretter er den prosentvise endringen i produktivitet beregnet fra ett år til det neste. For å trekke ut hvilke næringer som har bidratt mest og minst til produktivitetsutviklingen, er den prosentvise veksten i hver næring vektet mot næringens andel av det totale bruttoproduktet. På denne måten kan vi vurdere hvor viktig hver næring er for produktivitetsutviklingen. Dette blir basert på utviklingen de seneste årene, i perioden 2015-2023.
+
+Dataen som er hentet ut, presenteres i de to tabellene under.
+
+```{r warning=FALSE, message=FALSE}
+#| echo: false
+
+rm(list=ls())
+
+url_09170 <- "https://data.ssb.no/api/v0/no/table/09170/"
+
+
+query_09170 <- '{
+  "query": [
+    {
+      "code": "NACE",
+      "selection": {
+        "filter": "vs:NRNaeringPubAgg",
+        "values": [
+          "pub2X01_02",
+          "pub2X03",
+          "pub2X05",
+          "nr2X06_09",
+          "nr23ind",
+          "pub2X35",
+          "pub2X36_39",
+          "pub2X41_43",
+          "pub2X45_47",
+          "pub2X49B",
+          "pub2X50A",
+          "pub2X49A_52",
+          "pub2X53",
+          "pub2X55_56",
+          "pub2X58_63",
+          "pub2X64_66",
+          "pub2X69_75",
+          "pub2X77_82",
+          "pub2X84",
+          "pub2X85",
+          "pub2X86_88",
+          "pub2X90_97"
+        ]
+      }
+    },
+    {
+      "code": "ContentsCode",
+      "selection": {
+        "filter": "item",
+        "values": [
+          "Prob2",
+          "BNPB2"
+        ]
+      }
+    },
+    {
+      "code": "Tid",
+      "selection": {
+        "filter": "item",
+        "values": [
+          "1988",
+          "1989",
+          "1990",
+          "1991",
+          "1992",
+          "1993",
+          "1994",
+          "1995",
+          "1996",
+          "1997",
+          "1998",
+          "1999",
+          "2000",
+          "2001",
+          "2002",
+          "2003",
+          "2004",
+          "2005",
+          "2006",
+          "2007",
+          "2008",
+          "2009",
+          "2010",
+          "2011",
+          "2012",
+          "2013",
+          "2014",
+          "2015",
+          "2016",
+          "2017",
+          "2018",
+          "2019",
+          "2020",
+          "2021",
+          "2022",
+          "2023"
+        ]
+      }
+    }
+  ],
+  "response": {
+    "format": "json-stat2"
+  }
+}'
+hent_indeks.tmp_09170 <- url_09170 %>%
+  POST(body = query_09170, encode = "json")
+
+df_09170 <-  hent_indeks.tmp_09170 %>%
+  content("text") %>%
+  fromJSONstat() %>%
+  as_tibble()
+
+names(df_09170) <- c("næring", "målenhet", "år", "mill_kr") #Endrer kolonnenavnene veldig enkelt med denne koden
+
+# unique(df_09170$målenhet) # Henter ut navnene
+
+df_09170 <- df_09170 %>%
+  mutate(målenhet = recode(målenhet,"Produksjon i basisverdi. Faste 2015-priser (mill. kr)"  = "produksjon_mill_kr")) %>%
+  mutate(målenhet = recode(målenhet,"Bruttoprodukt i basisverdi. Faste 2015-priser (mill. kr)"  = "bruttoprodukt_mill_kr"))
+  
+df_09170 <- pivot_wider(df_09170, names_from = målenhet, values_from = mill_kr)
+```
+
+```{r warning=FALSE, message=FALSE}
+#| echo: false
+
+
+url_09174 <- "https://data.ssb.no/api/v0/no/table/09174/"
+
+
+query_09174 <- '{
+  "query": [
+    {
+      "code": "NACE",
+      "selection": {
+        "filter": "vs:NRNaeringPubAgg",
+        "values": [
+          "pub2X01_02",
+          "pub2X03",
+          "pub2X05",
+          "nr2X06_09",
+          "nr23ind",
+          "pub2X35",
+          "pub2X36_39",
+          "pub2X41_43",
+          "pub2X45_47",
+          "pub2X49B",
+          "pub2X50A",
+          "pub2X49A_52",
+          "pub2X53",
+          "pub2X55_56",
+          "pub2X58_63",
+          "pub2X64_66",
+          "pub2X68A",
+          "pub2X68B",
+          "pub2X69_75",
+          "pub2X77_82",
+          "pub2X84",
+          "pub2X85",
+          "pub2X86_88",
+          "pub2X90_97"
+        ]
+      }
+    },
+    {
+      "code": "ContentsCode",
+      "selection": {
+        "filter": "item",
+        "values": [
+          "Sysselsatte",
+          "Timeverk"
+        ]
+      }
+    },
+    {
+      "code": "Tid",
+      "selection": {
+        "filter": "item",
+        "values": [
+          "1988",
+          "1989",
+          "1990",
+          "1991",
+          "1992",
+          "1993",
+          "1994",
+          "1995",
+          "1996",
+          "1997",
+          "1998",
+          "1999",
+          "2000",
+          "2001",
+          "2002",
+          "2003",
+          "2004",
+          "2005",
+          "2006",
+          "2007",
+          "2008",
+          "2009",
+          "2010",
+          "2011",
+          "2012",
+          "2013",
+          "2014",
+          "2015",
+          "2016",
+          "2017",
+          "2018",
+          "2019",
+          "2020",
+          "2021",
+          "2022",
+          "2023"
+        ]
+      }
+    }
+  ],
+  "response": {
+    "format": "json-stat2"
+  }
+}'
+hent_indeks.tmp_09174 <- url_09174 %>%
+  POST(body = query_09174, encode = "json")
+
+df_09174 <-  hent_indeks.tmp_09174 %>%
+  content("text") %>%
+  fromJSONstat() %>%
+  as_tibble()
+
+names(df_09174) <- c("næring", "målenhet", "år", "verdi") #Endrer kolonnenavnene veldig enkelt med denne koden
+
+#unique(df_09174$målenhet) # Henter ut navnene
+
+df_09174 <- df_09174 %>%
+  mutate(målenhet = recode(målenhet,"Sysselsatte personer. Lønnstakere og selvstendige (1000 personer)"  = "sysselsatte_per_1000")) %>%
+  mutate(målenhet = recode(målenhet,"Utførte timeverk for lønnstakere og selvstendige (mill. timeverk)"  = "timer_mill"))
+  
+df_09174 <- pivot_wider(df_09174, names_from = målenhet, values_from = verdi)
+```
+
+```{r warning=FALSE, message=FALSE}
+#| echo: false
+
+df <- inner_join(df_09174, df_09170, by = c("næring", "år"))
+
+# names(df)
+
+df <- df %>%
+  mutate(produktivitet = bruttoprodukt_mill_kr/timer_mill) %>%
+  group_by(næring) %>%
+  mutate(vekst = ((produktivitet)/lag(produktivitet)-1)*100)
+
+#str(df)
+df$år <- as.integer(df$år)
+#str(df$år)
+
+
+total_bruttoprodukt_mill <- sum(df$bruttoprodukt_mill_kr)
+options(scipen = 999)
+
+# Beregn andelen av total produksjon
+df <- df %>%
+  mutate(vekt = bruttoprodukt_mill_kr / total_bruttoprodukt_mill)  # Andel av total produksjon
+
+# Beregn bidrag til produktivitetsutvikling
+df <- df %>%
+  mutate(vektet_bidrag = vekt * vekst)
+
+
+# en figur for prosentvis vekst, og en figur til prosentvis vekst som er vektet. Er det noen forskjeller der?
+```
+
+```{r warning=FALSE, message=FALSE}
+#| echo: false
+
+bidrag_næringer <- df %>%
+  filter(år >= 2015) %>%
+  group_by(næring) %>%                              # Grupperer etter næring
+  summarise(bidrag_per_næring = sum(vektet_bidrag, na.rm = TRUE)) %>%  # Summer produktivitetsvekst for hver næring
+  arrange(desc(bidrag_per_næring)) # Sortér fra størst til minst vekst
+
+bidrag_næringer <- bidrag_næringer[!(bidrag_næringer$næring %in% c("Utvinning av råolje og naturgass, inkl. tjenester", "Utenriks sjøfart", "Rørtransport")), ]
+
+topp4_næringer <- bidrag_næringer %>%
+  slice_head(n = 4) %>%     # Ta de 10 øverste radene
+  pull(næring)
+#print(topp4_næringer)
+```
+
+```{r warning=FALSE, message=FALSE}
+#| echo: false
+
+# Denne koden har chatgpt hjulpet med for å representere funnene mine oversiktelig
+
+topp4_tabell <- data.frame(Næring = topp4_næringer)
+
+knitr::kable(
+  topp4_tabell,
+  col.names = "Næring",
+  caption = "De fire næringene med størst bidrag til produktivitet."
+) %>%
+  kableExtra::kable_styling(
+    bootstrap_options = c("striped", "hover", "condensed", "bordered"),
+    full_width = FALSE
+  )
+```
+
+```{r warning=FALSE, message=FALSE}
+#| echo: false
+
+bunn4_næringer <- bidrag_næringer %>%
+  slice_tail(n = 4) %>%  # Hent de 10 siste radene
+  pull(næring)
+#print(bunn4_næringer)
+```
+
+```{r warning=FALSE, message=FALSE}
+#| echo: false
+
+# Denne koden har chatgpt hjulpet med
+
+bunn4_tabell <- data.frame(Næring = bunn4_næringer)
+
+knitr::kable(
+  bunn4_tabell,
+  col.names = "Næring",
+  caption = "De fire næringene med lavest bidrag til produktivitet."
+) %>%
+  kableExtra::kable_styling(
+    bootstrap_options = c("striped", "hover", "condensed", "bordered"),
+    full_width = FALSE
+  )
+```
+
+```{r warning=FALSE, message=FALSE}
+#| echo: false
+
+plot_1 <- df %>%
+  filter(år>=2015) %>%
+  filter(næring %in% topp4_næringer) %>%
+  ggplot(aes(x = år, y = vektet_bidrag , color = næring, group = næring)) +
+  geom_line(size = 0.7) +
+  geom_hline(yintercept = 0, linetype = "dashed", color = "black") +
+  scale_x_continuous(breaks = seq(min(df$år), max(df$år), by = 1)) +
+  labs(
+    title = "Produktivitetsvekst",
+    subtitle = "næringer med størst vekst",
+    x = "År",
+    y = "vekst (vektet bidrag)",
+  ) +
+  theme_minimal() +
+  theme(
+    axis.text.x = element_text(angle = 50, hjust = 1),
+    plot.title = element_text(hjust = 0.5,size = 16, face = "bold"),
+    plot.subtitle = element_text(hjust = 0.5),
+    axis.title = element_text(size = 14),
+    legend.position = "bottom")
+```
+
+```{r warning=FALSE, message=FALSE}
+#| echo: false
+
+plot_2 <- df %>%
+  filter(år>=2015) %>%
+  filter(næring %in% topp4_næringer) %>%
+  ggplot(aes(x = år, y = vekst , color = næring, group = næring)) +
+  geom_line(size = 0.7) +
+  geom_hline(yintercept = 0, linetype = "dashed", color = "black") +
+  scale_x_continuous(breaks = seq(min(df$år), max(df$år), by = 1)) +
+  labs(
+    title = "Produktivitetsvekst",
+    subtitle = "næringer mest størst vekst",
+    x = "År",
+    y = "vekst (%)",
+  ) +
+  theme_minimal() +
+  theme(
+    axis.text.x = element_text(angle = 50, hjust = 1),
+    plot.title = element_text(hjust = 0.5,size = 16, face = "bold"),
+    plot.subtitle = element_text(hjust = 0.5),
+    axis.title = element_text(size = 14),
+    legend.position = "bottom")
+```
+
+For å få en bedre forståelse av hvordan de fire største og de fire minste bidragene til produktivitetsutviklingen i Norge opptrer, visualiseres de i to figurer.
+
+```{r warning=FALSE, message=FALSE}
+#| echo: false
+#| label: fig-topp4
+#| fig-cap:
+#|   - "Figuren viser det vektede bidraget til næringene og veksten disse næringen har hatt i peridoen 2015-2023"
+
+
+# Fikk hjelo av chatgpt med denne koden:
+combined_plot <- plot_1 + plot_2 +
+  plot_layout(guides = 'collect') & # plottene deler legenden
+  theme(legend.position = "bottom") +
+  labs(caption = "Kilde: Statistisk sentralbyrå (2024)")
+
+combined_plot
+```
+
+@fig-topp4 viser to figurer ved siden av hverandre. Figuren til venstre viser det vektede bidraget næringenes vekst har hatt til det totale bruttoproduktet, og fremhever de fire næringene som bidrar mest til produktivitetsveksten i Norge. Disse næringene er: "Varehandel og reparasjon av motorvogner", "Finansierings- og forsikringsvirksomhet", "Offentlig administrasjon og forsvar" og "Faglig, vitenskapelig og teknisk tjenesteyting". Figuren til høyre viser den faktiske produktivitetsveksten for de samme næringene.
+
+Ved å sammenligne figurene ser vi at "Varehandel og reparasjon av motorvogner" har hatt betydelig vekst de siste årene. Når veksten vektes i forhold til bidraget til det totale bruttoproduktet, fremstår denne næringen med en enda større positiv effekt sammenlignet med de andre. Dette tyder på at næringen har spilt en vesentlig rolle i Norges produktivitetsutvikling.
+
+"Offentlig administrasjon og forsvar" viser den mest stabile veksten over tid. Når denne veksten vektes opp mot det totale bruttoproduktet, ser vi få endringer i figuren. Dette viser at næringen allerede har bidratt mye og jevnt til produktiviteten i Norge.
+
+For både "Finansierings- og forsikringsvirksomhet" og "Faglig, vitenskapelig og teknisk tjenesteyting", ser vi år med betydelig produktivitetsvekst. Derimot blir svingningene i veksten dempet når den vektes mot næringenes bidrag til det totale bruttoproduktet. Dette kan indikere at disse to næringene har hatt en mindre relativ innvirkning på det samlede bruttoproduktet sammenlignet med de to andre næringene.
+
+```{r warning=FALSE, message=FALSE}
+#| echo: false
+
+plot_22 <- df %>%
+  filter(år>=2015) %>%
+  filter(næring %in% bunn4_næringer) %>%
+  ggplot(aes(x = år, y =  vekst, color = næring, group = næring)) +
+  geom_line(size = 0.7) +
+  geom_hline(yintercept = 0, linetype = "dashed", color = "black") +
+  scale_x_continuous(breaks = seq(min(df$år), max(df$år), by = 1)) +
+  labs(
+    title = "Produktivitetsvekst",
+    subtitle = "næringer med minst vekst",
+    x = "År",
+    y = "vekst (%)",
+  ) +
+  theme_minimal() +
+  theme(
+    axis.text.x = element_text(angle = 50, hjust = 1),
+    plot.title = element_text(hjust = 0.5,size = 16, face = "bold"),
+    plot.subtitle = element_text(hjust = 0.5),
+    axis.title = element_text(size = 14),
+    legend.position = "right")
+```
+
+```{r warning=FALSE, message=FALSE}
+#| echo: false
+
+plot_12 <- df %>%
+  filter(år>=2015) %>%
+  filter(næring %in% bunn4_næringer) %>%
+  ggplot(aes(x = år, y =  vektet_bidrag, color = næring, group = næring)) +
+  geom_line(size = 0.7) +
+  geom_hline(yintercept = 0, linetype = "dashed", color = "black") +
+  scale_x_continuous(breaks = seq(min(df$år), max(df$år), by = 1)) +
+  labs(
+    title = "Produktivitetsvekst",
+    subtitle = "næringer med minst vekst",
+    x = "År",
+    y = "vekst (vektet bidrag)",
+  ) +
+  theme_minimal() +
+  theme(
+    axis.text.x = element_text(angle = 50, hjust = 1),
+    plot.title = element_text(hjust = 0.5,size = 16, face = "bold"),
+    plot.subtitle = element_text(hjust = 0.5),
+    axis.title = element_text(size = 14),
+    legend.position = "right")
+```
+
+```{r warning=FALSE, message=FALSE}
+#| echo: false
+#| label: fig-bunn4
+#| fig-cap:
+#|   - "Max nytte av konsum og fritid"
+
+# Fikk hjelo av chatgpt med denne koden:
+combined_plot_2 <- plot_12 + plot_22 +
+  plot_layout(guides = 'collect') & # deler legende
+  theme(legend.position = "bottom") + # legger legenden nederst
+  labs(caption = "Kilde: Statistisk sentralbyrå (2024)")
+
+# Vis kombinert plott
+combined_plot_2
+```
+
+@fig-bunn4 illustrerer de fire næringene som har bidratt minst til produktivitetsveksten i Norge de siste årene. Sammenligner vi figurene som viser vektet bidrag og faktisk vekst, ser vi noen tydelige forskjeller.
+
+"Fiske, fangst og akvakultur" har hatt stor prosentvis vekst i perioden 2019–2021. Når denne næringen vektes opp mot det totale bruttoproduktet, fremstår derimot svingningene som mindre betydelige, noe som indikerer et lavere samlet bidrag til produktivitetsutviklingen.
+
+I kontrast ser vi at svingningene for "Helse- og omsorg" øker når veksten vektes mot det totale bruttoproduktet. Dette tyder på at denne næringen har bidratt mer til produktiviteten, selv om veksten i prosent ikke er like tydelig.
+
+Næringen "Kultur, underholdning og annen tjenesteyting" har hatt den mest negative veksten blant næringene. Den prosentvise veksten viser store svingninger, men disse dempes når de vektes mot næringens totale bidrag. Dette gir et inntrykk av at næringen ikke bare har hatt en negativ utvikling, men heller ikke har hatt stor betydning for den totale produksjonen i landet. Det er derimot verdt å merke seg at næringen har hatt positiv vekst de siste årene.
+
+Funnene viser at "Varehandel og reparasjon av motorvogner" er en av næringene med både høy vekst og stor betydning for det totale bruttoproduktet. Samtidig finner analysen "Kultur, underholdning og annen tjenesteyting" som en av næringene med minst bidrag til produktivitetsutviklingen de siste årene, men med tegn til en forbedring.
+
+### Delkapittel 3.2
+
+#### Viktige drivere bak produktiviteten, med fokus på Norge:
+
+Det finnes flere viktige faktorer som kan fremme produktiviteten i et land, og disse kan beskrives som drivere for produktivitet. Denne delen av teksten skal fremheve de driverne som har særlig betydning for Norge. Basert på artikkelen *Produktivitet – grunnlag for vekst og velferd* (NOU 2015:1, kapittel 6, Regjeringen.no) trekkes følgende drivere frem: konkurranse, handel og internasjonalisering, institusjoner og regulering, infrastruktur, teknologi og innovasjon, urbanisering samt kunnskap og utdanning. Det er viktig å påpeke at listen over drivere er en oppsummering av poengene i artikkelen, skrevet på en måte som kan gjøre dem lettere å forstå.
+
+1.  **Konkurranse**
+
+Konkurranse mellom bedrifter fremmer innovasjon, ettersom bedriftene ønsker å utvikle effektive løsninger for å oppnå et overtak i markedet. Bedrifter som ikke klarer å holde følge med mer produktive konkurrenter, vil bli utkonkurrert. Dette fører til at de mest produktive bedriftene vokser frem, noe som øker samlet produktivitet. En slik prosess bidrar også til bedre ressursallokering, der ressursene flyttes til områder som gir størst verdi. For eksempel kan dette bety økt investering i ny teknologi fremfor arbeidskraft, noe som igjen vil styrker produktiviteten.
+
+Som en liten, åpen økonomi, hvor handel med andre land er en sentral del av økonomien, er konkurranse spesielt viktig for Norge. Konkurranse bidrar ikke bare til å styrke bedrifters effektivitet, men gjør det også mulig å hente inn innovasjoner fra utlandet, som igjen kan brukes til å fremme produktivitet og økonomisk vekst.
+
+2.  **Handel og internasjonalisering**
+
+Internasjonal handel spiller en viktig rolle for Norge. Gjennom handel kan landet investere i og samarbeide med store internasjonale bedrifter, som ofte nyter godt av stordriftsfordeler. Dette innebærer at større bedrifter kan oppnå lavere enhetskostnader, effektiv ressursallokering og stor kapital til forskning og utvikling. Slike fordeler gir disse bedriftene mulighet til å utvikle ny teknologi og innovative løsninger.
+
+For en liten økonomi som Norge er det spesielt viktig å hente inspirasjon og teknologi fra utlandet. Gjennom handel og samarbeid kan Norge adoptere og bruke disse løsningene, noe som bidrar til økt produktivitet og fremtidig økonomisk vekst.
+
+3.  **Institusjoner og regulering**
+
+Samfunnet kan bidra til å øke produktiviteten ved å lage lover og regler som skaper et mer effektivt arbeidsmarked. For eksempel kan ordninger som koordinert lønnsdannelse være med på å gjøre markedet mer rettferdig og produktivt. Koordinert lønnsdannelse betyr at lønnen blir bestemt for hele landet eller for ulike næringer, i stedet for at hver bedrift bestemmer lønnen på egen hånd. Dette kan redusere økonomiske forskjeller og hjelpe til med å holde prisstigning under kontroll.
+
+I Norge bruker vi frontfagsmodellen som et eksempel på dette. Den går ut på at industrien som konkurrerer på det internasjonale markedet forhandler først, som gir et utgangspunkt for lønnen i andre sektorer. Dette sikrer at lønningene blir tilpasset både situasjonen i Norge og konkurransen fra utlandet.
+
+4.  **Infrastruktur**
+
+Et godt utviklet nettverk for transport, telekommunikasjon og energi bidrar til å redusere kostnader og gjøre produksjonen mer effektiv. I Norge, som er et langstrakt land med store avstander, er dette spesielt viktig. Et effektivt transportsystem og rask overføring av informasjon vil være viktig for å styrke landets økonomiske vekst.
+
+5.  **Teknologi og innovasjon**
+
+Som de andre driverne har vist, har Norge en liten økonomi på det internasjonale markedet. For at landet skal kunne konkurrere med store bedrifter, er det derfor viktig å ta i bruk og utvikle ny teknologi som er hentet fra utlandet. Dette er mer effektivt for økonomien, siden forskning krever store ressurser, og Norge er et lite land. For at Norge skal kunne tilpasse seg og bruke denne nye teknologien, er det viktig å satse på høy kunnskap og utdanning.
+
+Ut fra det som ble trekt ut som viktige drivere for Norge, skal denne teksten rette fokuset på urbanisering og utdanningsnivå. Dette valget er basert på Norges som et lite og langstrakt land, der det kan være mer lønnsomt å utnytte og videreutvikle internasjonal forskning enn å investere store mengder kapital i utvikling av nye oppfinnelser.
+
+#### Urbanisering
+
+Urbanisering er en viktig del av produktivitetsutviklingen. Den hyppige urbaniseringen startet med den industrielle revolusjonen, som førte til at folk samlet seg i byer. Urbanisering kommer av teknologisk utvikling, men er også viktig for at vi kan fortsette å utvikle oss. Når folk bor nærmere hverandre, blir det lettere å utveksle kunnskap og varer. Dette gir en fordel som kalles agglomerasjonsfordeler, som betyr at det er positive effekter av at mennesker bor tett sammen. For eksempel blir det enklere for folk å finne jobber som passer deres kunnskap, og bedrifter får lettere tilgang til effektiv arbeidskraft.
+
+Å samle befolkningen gir også fordeler som kortere reisetid, bedre tilgang til utdanning på universiteter og mer utvikling av kunnskap. Likevel er det noen utfordringer. Når mange mennesker bor tett sammen, kan det føre til køer og trafikkproblemer som kan bremse produktiviteten. Derfor er det viktig med gode løsninger for kollektivtransport og effektiv transport i byene.
+
+Urbanisering er en stor driver for at Norge kan konkurrere internasjonalt. Med riktig politisk planlegging kan urbanisering øke utveksling av kunnskap, forbedre infrastrukturen og gjøre det lettere å spesialisere seg i ulike sektorer.
+
+```{r warning=FALSE, message=FALSE}
+#| echo: false
+
+rm(list=ls())
+
+url <- "https://data.ssb.no/api/v0/no/table/06913/"
+
+
+query <- '{
+  "query": [
+    {
+      "code": "Region",
+      "selection": {
+        "filter": "agg:KommSummerHist",
+        "values": [
+          "K_0301",
+          "K_1103",
+          "K_4601",
+          "K_4640",
+          "K_1833",
+          "K_5603"
+        ]
+      }
+    },
+    {
+      "code": "ContentsCode",
+      "selection": {
+        "filter": "item",
+        "values": [
+          "Folkemengde"
+        ]
+      }
+    },
+    {
+      "code": "Tid",
+      "selection": {
+        "filter": "item",
+        "values": [
+          "2000",
+          "2001",
+          "2002",
+          "2003",
+          "2004",
+          "2005",
+          "2006",
+          "2007",
+          "2008",
+          "2009",
+          "2010",
+          "2011",
+          "2012",
+          "2013",
+          "2014",
+          "2015",
+          "2016",
+          "2017",
+          "2018",
+          "2019",
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024"
+        ]
+      }
+    }
+  ],
+  "response": {
+    "format": "json-stat2"
+  }
+}'
+hent_indeks.tmp <- url %>%
+  POST(body = query, encode = "json")
+
+befolkning <-  hent_indeks.tmp %>%
+  content("text") %>%
+  fromJSONstat() %>%
+  as_tibble()
+
+befolkning <- befolkning %>%
+  group_by(region) %>%
+  mutate(vekst = ((value-lag(value))/lag(value))*100)
+  
+
+befolkning$år <- as.integer(befolkning$år)
+```
+
+```{r warning=FALSE, message=FALSE}
+#| echo: false
+#| label: fig-befolkningsvekst
+#| fig-cap: "Prosentvis vekst av antall bosatte, for seks utvalgte kommuner i Norge."
+
+befolkning$region <- factor(befolkning$region, levels = c("Oslo", "Hammerfest - Hámmerfeasta", "Bergen", "Rana - Raane", "Stavanger", "Sogndal")) # Sorterer de slik at det blir lettere å lese av data i plottet
+
+befolkning %>%
+  filter(år>=2002) %>%
+  ggplot(aes(x = år, y = vekst, fill = region)) +
+  geom_col(position = "dodge") +
+  geom_hline(yintercept = 0, linetype = "dashed", color = "black") +
+  scale_x_continuous(breaks = seq(min(befolkning$år), max(befolkning$år), by = 2)) +
+  labs(
+    title = "Urbanisering i Norske kommuner",
+    subtitle = "Prosentvis vekst i utvalgte kommuner",
+    x = "År",
+    y = "Vekst (%)",
+    caption = "Kilde: Statistisk sentralbyrå (2024)"
+  ) +
+  theme_minimal() +
+  theme(
+    axis.text.x = element_text(angle = 50, hjust = 1),
+    plot.title = element_text(hjust = 0.5, size = 16, face = "bold"),
+    plot.subtitle = element_text(hjust = 0.5),
+    axis.title = element_text(size = 14),
+    plot.caption = element_text(size = 10),
+    legend.position = "none"
+  ) +
+  facet_wrap(~region, ncol = 2, scales = "free_y")
+```
+
+I @fig-befolkningsvekst er prosentvis vekst av befolkningen i noen utvalgte kommuner illustrert. Valget av kommuner inkluderer både de med store byer og de som ligger lenger unna byene. Dette er gjort for å undersøke om det finnes et mønster i urbaniseringen i Norge. Kommunene Oslo, Bergen og Stavanger representerer tre av landets største byer, mens Hammerfest, Rana og Sogndal er eksempler på mindre kommuner med lavere innbyggertall.
+
+Oversikten viser tydelig at storbyene Oslo, Bergen og Stavanger har den mest stabile befolkningsveksten. Både Oslo og Stavanger har i enkelte år hatt en vekst på over 2 prosent sammenlignet med året før. Derimot er veksten i de mindre kommunene mer uforutsigbar. Flere av de mindre kommunene har hatt år med befolkningsnedgang, noe som tyder på at utvandring har overgått innvandring i disse periodene. Likevel har Hammerfest hatt noen år med vekst på opptil 2 prosent, mens Sogndal har hatt en jevn befolkningsvekst siden 2008.
+
+Som helhet viser figuren at de største byene har den mest stabile og positive veksten. Dette kan gi et bilde av hvordan urbaniseringen i Norge har utviklet seg over tid, med en økende konsentrasjon av befolkningen i storbyene.
+
+#### Kunnskap og utdanning
+
+Som tidligere nevnt, er kunnskap en sentral faktor for å drive produktivitetsutvikling. De siste årene har det blitt stadig viktigere for et lands utvikling at befolkningen har høy utdanning. Dette skyldes at teknologien blir mer avansert, og behovet for kunnskap følger denne utviklingen. For at et land som Norge skal kunne ta i bruk og videreutvikle innovasjoner, er det avgjørende å prioritere investering i utdanning.
+
+Norge har allerede et godt grunnlag for å styrke utdanningsnivået, da gratis utdanning er en del av velferdsstatens tilbud. Dette gir en unik mulighet til å sikre at kunnskap blir tilgjengelig for alle, noe som igjen kan bidra til å fremme produktiviteten i landet.
+
+Nedenfor vises en illustrasjon som gir en oversikt over hvordan utdanningsnivået i Norge har utviklet seg over tid.
+
+```{r warning=FALSE, message=FALSE}
+#| echo: false
+
+url <- "https://data.ssb.no/api/v0/no/table/08921/"
+
+
+query <- '{
+  "query": [
+    {
+      "code": "Region",
+      "selection": {
+        "filter": "item",
+        "values": [
+          "0"
+        ]
+      }
+    },
+    {
+      "code": "Kjonn",
+      "selection": {
+        "filter": "item",
+        "values": [
+          "0"
+        ]
+      }
+    },
+    {
+      "code": "Alder",
+      "selection": {
+        "filter": "item",
+        "values": [
+          "00000"
+        ]
+      }
+    },
+    {
+      "code": "UtdanNivaa",
+      "selection": {
+        "filter": "item",
+        "values": [
+          "03a",
+          "04a"
+        ]
+      }
+    },
+    {
+      "code": "ContentsCode",
+      "selection": {
+        "filter": "item",
+        "values": [
+          "PersonPros"
+        ]
+      }
+    },
+    {
+      "code": "Tid",
+      "selection": {
+        "filter": "item",
+        "values": [
+          "2001",
+          "2002",
+          "2003",
+          "2004",
+          "2005",
+          "2006",
+          "2007",
+          "2008",
+          "2009",
+          "2010",
+          "2011",
+          "2012",
+          "2013",
+          "2014",
+          "2015",
+          "2016",
+          "2017",
+          "2018",
+          "2019",
+          "2020",
+          "2021",
+          "2022",
+          "2023"
+        ]
+      }
+    }
+  ],
+  "response": {
+    "format": "json-stat2"
+  }
+}'
+hent_indeks.tmp <- url %>%
+  POST(body = query, encode = "json")
+
+df_utdanning <-  hent_indeks.tmp %>%
+  content("text") %>%
+  fromJSONstat() %>%
+  as_tibble()
+
+#unique(df_utdanning$utdanningsnivå)
+
+df_utdanning <- df_utdanning %>%
+  mutate(utdanningsnivå = recode(utdanningsnivå, "Universitets- og høgskolenivå, kort" = "Kort utdanning")) %>%
+  mutate(utdanningsnivå = recode(utdanningsnivå, "Universitets- og høgskolenivå, lang" = "Lang utdanning"))
+
+# df_utdanning <- pivot_wider(df_utdanning, names_from = utdanningsnivå, values_from = value)
+
+df_utdanning <- df_utdanning %>%
+  select(-kjønn,-alder,-region)
+
+# str(df_utdanning$år) sjekker om jeg må gjøre de om til int typer
+df_utdanning$år <- as.integer(df_utdanning$år)
+ 
+df_utdanning <- df_utdanning %>%
+  group_by(utdanningsnivå) %>%
+  mutate(vekst = ((value-lag(value))/lag(value))*100)
+# prøv å se om prosentvis veskt i andlen av befolkningen gi bedre tall for plottet
+```
+
+```{r warning=FALSE, message=FALSE}
+#| echo: false
+#| label: fig-utdanning
+#| fig-cap: "Utviklingen av høyere utdanning i Norge, mål for personer over 16 år i prosentandel av befolkningen. Dataen for den prosentvise andelen er målt for kort og lang utdanning. Kort utdanning tilsvarer en batchlor, mens høy utdanning tilsvarer en master eller høyere. Figurene er satt i samme skala slik at dataen lett kan sammenlignes"
+
+df_utdanning %>%
+  filter(år>=2002) %>%
+  ggplot(aes(x = år, y = vekst, fill = utdanningsnivå)) +
+  geom_col(position = "dodge") +
+  #geom_smooth(aes(group = 1), color = "black", size = 0.17, method = "loess") +
+  facet_wrap(~utdanningsnivå, ncol = 1) +
+  scale_x_continuous(breaks = seq(min(df_utdanning$år), max(df_utdanning$år), by = 2)) +
+  scale_fill_manual(
+    values = c("Kort utdanning" = "burlywood4", "Lang utdanning" = "darkolivegreen4") # Tilpass farger for facets
+  ) +
+  labs(
+    title = "Prosentvis veskt av befolkningen med høyere utdanning",
+    subtitle = "Målt for andelen av befolkningen med kortere- og lengere utdanning",
+    x = "År",
+    y = "Vekst (%)",
+    caption = "Kilde: Statistisk sentralbyrå (2024)",
+    fill = "Utdanningsnivå" # Tittel på legenden
+  ) +
+  theme_minimal() +
+  theme(
+    axis.text.x = element_text(angle = 50, hjust = 1),
+    plot.title = element_text(hjust = 0.5, size = 13, face = "bold"),
+    plot.subtitle = element_text(hjust = 0.5),
+    axis.title = element_text(size = 14),
+    plot.caption = element_text(size = 10),
+    legend.position = "none"
+  )
+```
+
+@fig-utdanning illustrerer den prosentvise veksten i andelen av befolkningen med høyere utdanning, fordelt på kortere og lengre utdanning.
+
+Den øverste figuren viser veksten for befolkningen med kortere utdanning. Her ser vi at veksten er positiv gjennom hele perioden. Den var på sitt høyeste mellom 2003 og 2005, men har gradvis avtatt etter dette og nådde sitt laveste nivå i 2023.
+
+Den nederste figuren viser veksten i andelen av befolkningen med lengre utdanning. Også her er veksten positiv hvert år, men det er tydelig at den prosentvise veksten for lengre utdanning generelt er høyere enn for kortere utdanning. Dette indikerer en trend der flere i befolkningen velger å ta lengre utdanninger, som mastergrader eller høyere.
+
+Samlet sett viser @fig-utdanning en positiv utvikling i andelen av befolkningen som tar høyere utdanning, med en tydeligere vekst blant dem som velger lengre utdanninger. Dette er en lovende trend for Norge, da en mer utdannet befolkning kan bidra til økt produktivitet og videre økonomisk utvikling.
+
+## Kapittel 4 - Velferdsstaten og produktivitet
+
+```{r warning=FALSE, message=FALSE}
+#| echo: false
+
+library(ggplot2)
+
+rm(list = ls())
+
+suppressPackageStartupMessages(library(tidyverse))
+
+# Lag aksene
+axes_1 <- ggplot() +
+  labs(x = "Fritid", y = "Konsum") +
+  theme(
+    axis.title = element_text(size = 10),
+    plot.title = element_text(size = 15),
+    panel.background = element_blank(), # hvit bakgrunn
+    axis.line = element_line(colour = "black"), # sett inn akselinjer
+    #axis.title.x = element_text(hjust = 1),
+    #axis.title.y = element_text(angle = 0, vjust = 1, hjust = 1) # juster labels på aksene
+  ) +
+  #coord_fixed(ratio = 1) + # lik skala for x og y aksen
+  scale_x_continuous(limits = c(0, 25), expand = c(0, 0)) +
+  scale_y_continuous(limits = c(0, 6000), expand = c(0, 0)) # Begrense aksene
+
+# Oppdaterte indifferenskurver med høyere nyttenivåer
+I_0 <- function(x_1) (190^2) / x_1 # Nivå 190
+I_1 <- function(x_1) (112^2) / x_1 # Nivå 112
+I_2 <- function(x_1) (250^2) / x_1
+
+#lager en budsjettbetingelse:
+buds_0 <- function(F) 6000-250 * F
+
+# Plot med indifferenskurver
+figur_1 <- axes_1 + 
+  stat_function(fun = I_0, size = 0.5, alpha = 0.5) +
+  stat_function(fun = I_1, size = 0.5, alpha = 0.5)  +
+  stat_function(fun = I_2, size = 0.5, alpha = 0.5) +
+  stat_function(fun = buds_0, color = "blue") +
+  annotate("text", x = 12, y = 5700, label = expression(u[0]), size = 5) +
+  annotate("text", x = 7.5, y = 5700, label = expression(u[1]), size = 5) +
+  annotate("text", x = 3.2, y = 5700, label = expression(u[2]), size = 5)
+```
+
+```{r warning=FALSE, message=FALSE}
+#| echo: false
+
+buds_1 <- function(F) 6000-250 * F + 1900
+
+figur_2 <- figur_1 +
+  stat_function(fun = buds_1, color = "black")+
+  geom_point(aes(x = 24, y = 1900), color = "red", size = 2)+
+  geom_point(aes(x = 16.4, y = 1900), size = 1.5)+
+  geom_segment(aes(x=24, y=0, xend=24, yend=1900), linetype="dashed")+
+  geom_segment(aes(x=16.4, y=1900, xend=24, yend=1900), color = "red")+
+  geom_segment(aes(x=16.4, y=0, xend=16.4, yend=1900), linetype="dashed")+
+  annotate("text",x=24,y=1900, label="Trygd", hjust = 1.5, vjust=-1, size = 4)+
+  annotate("text",x=16.4,y=1900, label="16.4", hjust = 1.6, vjust=-0.7, size = 4) +
+  labs(y = NULL)
+```
+
+```{r warning=FALSE, message=FALSE}
+#| echo: false
+#| label: fig-utenskatt
+#| fig-cap:
+#|   - "Figuren illusterer max nytte av konsum og fritid, og deretter sammenligner lønn med arbeidledighetstrygd"
+
+# Fikk hjelo av chatgpt med denne koden:
+combined_plot_3 <- figur_1 + figur_2 +
+  plot_annotation(
+    title = "Optimal nytte av konsum og fridtid",
+    subtitle = "Målt med budsjettbetingelse",
+    theme = theme(
+      plot.title = element_text(hjust = 0.5, size = 16, face = "bold"), # Midtstill tittel
+      plot.subtitle = element_text(hjust = 0.5, size = 12) # Midtstill undertittel
+    )
+  )
+
+
+# Vis kombinert plott
+combined_plot_3
+```
+
+I @fig-utenskatt vises to figurer, den første (til venstre) illustrerer sammenhengen mellom konsum og fritid. Den rette linjen i figuren representerer konsum begrenset av lønn, der maksimal lønn som kan oppnås er 6000 kroner, gitt at man har 0 fritid. Dette betyr at en person ville tjent 6000 kroner ved å arbeide 24 timer i døgnet. I figuren ser vi også tre ulike indifferenskurver, som hver representerer kombinasjoner av konsum og fritid som gir samme grad av glede, eller nytte, for individet. I den første figuren tangerer den opprinnelige budsjettbetingelsen nyttefunksjonen u1 ved ca. ved punktet (12, 3000). Dette er det punktet som gir maksimal nytte med en lønnsbasert budsjettbetingelse fo dette individet.
+
+Til høyre i figuren ser vi effekten av arbeidsledighetstrygd, som er en økonomisk støtteordning fra den norske staten for arbeidsledige. I dette eksempelet er trygden satt til 1900 kroner per dag, noe som betyr at en arbeidsledig som bruker opp hele konsumet, vil ha et totalt konsum på 1900 kroner og full fritid. Den røde linjen, som starter ved trygdpunktet, krysser den opprinnelige budsjettbetingelsen når fritiden er redusert til cirka 16,4 timer per dag. Dette betyr at en person som velger å jobbe i dette tilfellet, vil ha 7,6 timer mindre fritid enn en arbeidsledig, men oppnå samme konsum på 1900 kroner.
+
+Trygden er også illustrert ved en parallell budsjettlinje som er hevet med det faste beløpet på 1900 kroner. Avstanden mellom de parallelle linjene representerer hvordan fritid har blitt et normalgode (Anker-Nilssen, 2016), noe som betyr at etterspørselen etter fritid øker når inntekten øker. Dette gir et økonomisk insentiv for flere å velge mer fritid over arbeid, så lenge konsumet forblir på et tilfredsstillende nivå, noe arbeidsledighetstrygden kan bistå med. Et insentiv er noe som motiverer menesker til å handle på en viss måte (Store norske leksikon, n.d.).
+
+Som et resultat av denne endringen, ser vi at arbeidstilbudet i markedet reduseres. Det opprinnelige punktet (12,3000) der budsjettbetingelsen tangerer u1, skifter til et nytt punkt der den forhøyede budsjettlinjen tangerer u2. I praksis betyr dette at ønsket om 12 timer fritid nå øker til punktet 16.4, med 16.4 timer fritid, noe som reduserer tilbudet i arbeidsmarkedet.
+
+Oppsummert viser figurene hvordan en høy arbeidsledighetstrygd kan påvirke arbeidsviljen i befolkningen. Når trygden gir mulighet for samme konsum med mer fritid, blir det mindre attraktivt å jobbe. Mange vil velge økt fritid fremfor arbeid, så lenge konsumet ikke faller. Dette illustrerer hvordan arbeidledighetstrygd som insentiv kan ha negativ effekt på tilbudet av arbeidskraft.
+
+```{r warning=FALSE, message=FALSE}
+#| echo: false
+
+buds_3 <- function(F) 2100-250 * F * 0.35
+
+figur_3 <- figur_1 +
+  stat_function(fun = buds_3, color = "blue")
+```
+
+```{r warning=FALSE, message=FALSE}
+#| echo: false
+
+buds_4 <- function(F) 2100-250 * F * 0.35
+#buds_5 <- function(F) 6000-250 * F + 2100
+
+figur_4 <- figur_1 +
+  stat_function(fun = buds_4, color = "blue") +
+  #stat_function(fun = buds_5) +
+  geom_point(aes(x = 24, y = 2100), color = "red", size = 2)+
+  geom_point(aes(x = 15.5, y = 2100), size = 1.5)+
+  geom_point(aes(x = 0.2, y = 2100), size = 1.5)+
+  geom_segment(aes(x=24, y=0, xend=24, yend=2100), linetype="dashed")+
+  geom_segment(aes(x=0, y=2100, xend=24, yend=2100), color = "red")+
+  geom_segment(aes(x=15.5, y=0, xend=15.5, yend=2100), linetype="dashed")+
+  annotate("text",x=24,y=2100, label="Trygd", hjust = 1, vjust=-1, size = 4) +
+  annotate("text",x=15.5,y=2100, label="15.5", hjust = 1.6, vjust=-0.7, size = 4) +
+  annotate("text",x=0.2,y=2100, label="0", hjust = -1, vjust=-0.6, size = 4) +
+  labs(y = NULL)
+```
+
+```{r warning=FALSE, message=FALSE}
+#| echo: false
+#| label: fig-medskatt
+#| fig-cap:
+#|   - "Figuren viser nedgangen i lønn ved høy skatt, og deretter hvordan arbeidsledighetstrygda påvirker dette"
+
+# Fikk hjelo av chatgpt med denne koden:
+combined_plot_4 <- figur_3 + figur_4 +
+  plot_annotation(
+    title = "Optimal nytte av konsum og fridtid",
+    subtitle = "Målt med budsjettbetingelse",
+    theme = theme(
+      plot.title = element_text(hjust = 0.5, size = 16, face = "bold"), # Midtstill tittel
+      plot.subtitle = element_text(hjust = 0.5, size = 12) # Midtstill undertittel
+    )
+  )
+
+
+# Vis kombinert plott
+combined_plot_4
+```
+
+I @fig-medskatt ser vi to figurer plassert side ved side. Den første figuren (til venstre) viser to budsjettbetingelser: én uten skattetrekk og én med skattetrekk. For å tydeliggjøre poengene i teksten, er skatten i dette eksemplet satt relativt høyt. Figuren illustrerer at skattetrekket reduserer maksimal lønn fra 6000 kr til 2100 kr, dersom en arbeider jobber 24 timer i døgnet.
+
+Budsjettbetingelsen uten skatt tangerer nyttefunksjonen ved punktet (12.5, 3000), som betyr at maksimalt nyttenivå oppnås med 12.5 timer fritid og et totalt konsum på 3000 kr. Med skattetrekk reduseres budsjettet til 2100 kr, med samme nivå av fritid. Dette innebærer at nyttenivået har blitt lavere, som i praksis betyr en reduksjon i levestandard.
+
+I figuren til høyre er arbeidsledighetstrygden hevet høyere enn i @fig-utenskatt. Dette er gjort for å illustrere hvordan en høy arbeidsledighetstrygd, kombinert med høye skatter, kan påvirke samfunnet. Den røde linjen som representerer trygden, treffer nå punktet der en arbeidstaker ville hatt maksimalt konsum ved null fritid. I dette eksemplet blir arbeidstilbudet redusert til null, ettersom mange vil foretrekke arbeidsledighetstrygd fremfor å jobbe. Trygden gir både mer fritid og høyere konsum enn det arbeidsinntekten kan tilby, dermed er det nå et mye mer attraktiv tilbud for største delen av befolkningen.
+
+Dette eksemplet er en forenkling og ikke en nøyaktig representasjon av hvordan velferdssystemet er satt opp. Poenget er å illustrere hvordan høy arbeidsledighetstrygd, kombinert med høyt skattenivå, kan påvirke insentivene til å arbeide negativt for store deler av befolkningen. En høy trygdeytelse kan heve reservasjonslønnen, som er den laveste lønnen en arbeidstaker er villig til å akseptere for å delta i arbeidslivet. Lavere disponibel lønn, kombinert med en attraktiv trygdeordning, kan svekke arbeidstilbudet og dermed påvirke produktivitetsveksten negativt. Når færre deltar i arbeidslivet, eller når arbeidstiden reduseres, kan det bidra til at økonomiens produktivitet blir lavere.
+
+Det finnes selvsagt også positive sider ved trygdeordningene, som for eksempel at det gir en trygghet til befolkningen. dette kan på sin måte bidra til økt produktivitet ved at det gir muligheten for arbeidsledige å rette seg inn mot et arbeidsmarket som er tilpasset deres kompetanse. På denne måten kan trygdeordningen bidra til økt produktivitet i samfunnet.
+
+Konklusjonen er at både velferdsordninger og skattesystemet er viktige i produktivitetsanalyser. De kan både øke og redusere produktiviteten. En god økonomisk infrastruktur i et land er derfor viktig for å kunne sikre befolkningen ved arbeidsledighet, samtidig som den har en positiv, fremfor en negativ, effekt på produktivitetsveksten.
+
+## Kapittel 5 - Konklusjon
+
+I kapittel 2, som omhandler produktivitetsutviklingen mellom de skandinaviske landene og USA, ser vi en jevn og positiv utvikling i USA. De skandinaviske landene viser mer variasjon, men Danmark følger tett etter USA i produktivitetsutviklingen. USA har imidlertid hatt den høyeste produktivitetsveksten de siste årene, noe som støtter oppfatningen om at landet er ledende innen produktivitetsutvikling.
+
+Kapittel 3 analyserer data for produktivitetsutviklingen i ulike næringer i Norge. Ved å vekte prosentvis vekst opp mot det totale bruttoproduktet i hver næring, identifiseres "Varehandel og reparasjon av motorvogner" som den næringen som har bidratt mest til produktivitetsutviklingen i Norge. På den andre siden peker analysen på "Kultur, underholdning og annen tjenesteyting" som en av næringene med minst bidrag. Videre i kapittelet diskuteres viktige drivere for produktivitetsutviklingen, med fokus på hvilke som har stor betydning for Norge. Urbanisering og høyere utdanning trekkes frem som to nøkkelområder. Analysen viser sterk befolkningsvekst i større bykommuner, mens mindre kommuner opplever en mer ustabil utvikling. Når det gjelder høyere utdanning, ser vi en økning i både kortere og lengre utdanningsløp. Spesielt har andelen av befolkningen som tar mastergrad eller høyere, vokst betydelig, noe som kan være positivt for Norges evne til å utnytte og videreutvikle innovasjoner.
+
+I kapittel 4 analyseres hvordan velferdsstaten kan påvirke produktivitetsutviklingen negativt. Hvis folketrygden er for høy sammenlignet med arbeidsinntekt, kan dette redusere arbeidsviljen i befolkningen, både når det gjelder å delta i arbeidslivet og å jobbe flere timer. Dette kan føre til en negativ utvikling i produktiviteten.
+
+## Kildeliste:
+
+------------------------------------------------------------------------
+
+1.  Anker-Nilssen, K. (2016). *Economic determinants of the Norwegian sovereign wealth fund*. BI Open. Hentet fra <https://biopen.bi.no/bi-xmlui/bitstream/handle/11250/2465222/1691859.pdf?sequence=1&isAllowed=y>
+
+2.  Arbeid og velferd. (2019). *Arbeidsledige innvandrere – hvor lenge er de ledige og hva gjør de etterpå?*Hentet fra <https://arbeidogvelferd.nav.no/journal/2019/4/m-1210/Arbeidsledige_innvandrere_–_hvor_lenge_er_de_ledige_og_hva_gjør_de_etterpå>
+
+3.  Konkurransetilsynet. (n.d.). *Kronikk: Konkurranse kan styrke kronen*. Hentet fra <https://konkurransetilsynet.no/kronikk-konkurranse-kan-styrke-kronen/>
+
+4.  NHO Arbeidsliv. (n.d.). *Den norske modellen*. Hentet fra <https://arbinn.nho.no/arbeidsliv/lonn-og-tariff/tariff/artikler/den-norske-modellen/>
+
+5.  Norges Bank. (2024). *USA vokser fra europeiske land*. Hentet fra <https://www.norges-bank.no/bankplassen/arkiv/2024/usa-vokser-fra-europeiske-land/>
+
+6.  Norsk petroleum. (n.d.). *Rørtransportsystemet*. Hentet fra <https://www.norskpetroleum.no/produksjon-og-eksport/rortransportsystemet/>
+
+7.  OECD. (n.d.). Data Explorer: Economic indicators for selected countries. Hentet fra [https://data-explorer.oecd.org/vis?df\[ds\]=DisseminateFinalDMZ&df\[id\]=DSD_PDB%40DF_PDB_LV&df\[ag\]=OECD.SDD.TPS&dq=](https://data-explorer.oecd.org/vis?df%5Bds%5D=DisseminateFinalDMZ&df%5Bid%5D=DSD_PDB%40DF_PDB_LV&df%5Bag%5D=OECD.SDD.TPS&dq=DEU%2BDNK%2BSWE%2BNOR%2BUSA.A....Q...&pd=1988%2C2023&to%5BTIME_PERIOD%5D=false&vw=ov)
+
+    [DEU%2BDNK%2BSWE%2BNOR%2BUSA.A....Q...&pd=1988%2C2023&to\[TIME_PERIOD\]=false&vw=ov](https://data-explorer.oecd.org/vis?df%5Bds%5D=DisseminateFinalDMZ&df%5Bid%5D=DSD_PDB%40DF_PDB_LV&df%5Bag%5D=OECD.SDD.TPS&dq=DEU%2BDNK%2BSWE%2BNOR%2BUSA.A....Q...&pd=1988%2C2023&to%5BTIME_PERIOD%5D=false&vw=ov)
+
+8.  Regjeringen.no. (2015). *Produktivitet – grunnlag for vekst og velferd (NOU 2015:1)*. Hentet fra <https://www.regjeringen.no/contentassets/ef2418d9076e4423ab5908689da67700/no/pdfs/nou201520150001000dddpdfs.pdf>
+
+9.  Regjeringen.no. (2023). *La oss snakke om produktivitet*. Hentet fra <https://www.regjeringen.no/no/aktuelt/la-oss-snakke-om-produktivitet/id3072632/>
+
+10. R Graph Gallery. (n.d.). *Ggplot2 color gallery*. Hentet fra <https://r-graph-gallery.com/ggplot2-color.html>
+
+11. Statistisk sentralbyrå. (n.d.). *Produktivitetsberegninger for næringer*. Hentet fra <https://www.ssb.no/nasjonalregnskap-og-konjunkturer/nasjonalregnskap/artikler/produktivitetsberegninger-for-naeringer>
+
+12. Statistisk sentralbyrå. (n.d.). *Stadig flere bor i tettsteder*. Hentet fra <https://www.ssb.no/befolkning/folketall/statistikk/tettsteders-befolkning-og-areal/artikler/stadig-flere-bor-i-tettsteder>
+
+13. Statistisk sentralbyrå. (n.d.). Tabell 06913. Hentet fra <https://www.ssb.no/statbank/table/06913>
+
+14. Statistisk sentralbyrå. (n.d.). Tabell 08921. Hentet fra <https://www.ssb.no/statbank/table/08921>
+
+15. Statistisk sentralbyrå. (n.d.). Tabell 09170. Hentet fra <https://www.ssb.no/statbank/table/09170>
+
+16. Statistisk sentralbyrå. (n.d.). Tabell 09174. Hentet fra <https://www.ssb.no/statbank/table/09174>
+
+17. Store norske leksikon. (n.d.). *Den industrielle revolusjon*. Hentet fra <https://www.ssb.no/statbank/table/09174>
+
+18. Store norske leksikon. (n.d.). *Gode*. Hentet fra <https://snl.no/gode>
+
+19. Store norske leksikon. (n.d.). *Grunnrente*. Hentet fra <https://snl.no/grunnrente>
+
+20. Store norske leksikon. (n.d.). *Insentiv*. Hentet fra <https://snl.no/insentiv>
+
+21. Store norske leksikon. (n.d.). *Jordbruk*. Hentet fra <https://snl.no/jordbruk>
+
+22. Store norske leksikon. (n.d.). *Norden*. Hentet fra <https://snl.no/Norden>
+
+23. Store norske leksikon. (n.d.). *Produktivitet*. Hentet fra <https://snl.no/produktivitet>
+
+24. Teamdeck. (n.d.). *Hva er ressursallokering?* Hentet fra <https://teamdeck.io/nb/kunnskapsbase/hva-er-ressursallokering/>
+
+25. Tidyverse. (n.d.). *Ggplot2 themes*. Hentet fra <https://ggplot2.tidyverse.org/reference/ggtheme.html>
